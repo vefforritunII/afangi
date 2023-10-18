@@ -1,5 +1,5 @@
 ## Verkefni 1 
-- Hugmyndavinna
+- [Hugmyndavinna](https://github.com/vefforritunII/afangi/blob/main/Hugmyndavinna.md)
 - 10% af heildareinkunn
 
 ---
