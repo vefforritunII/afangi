@@ -18,7 +18,7 @@ Unnið er eftir [hönnunarspretts](https://blog.kolibri.is/h%C3%B6nnunarsprettir
    1. [User Flows vs. Wireframes](https://careerfoundry.com/en/blog/ux-design/user-flows-vs-wireframes/)
    1. [Wireframing for beginners](https://uxmastery.com/wireframing-for-beginners/) 
    1. [Paper wireframing](https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13) og [templates](https://sneakpeekit.com/) til útprentunar.
-   1. [Figma](https://www.figma.com/)
+   1. [Figma](https://www.figma.com/) og [Figma námsefni](https://io.vefskoli.is/guide/64de8cce5930e6000884b9bb?isReturned=false)
 <!--
    - [Ítarefni: Web Design: Wireframes to Prototypes (Coursera)](https://www.coursera.org/learn/web-design-wireframes-prototypes?action=enroll)
 -->
