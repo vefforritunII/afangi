@@ -4,6 +4,7 @@
 
 
 ### Vefhönnun 
+* [Design Fundamentals (Vefskólinn)](https://io.vefskoli.is/guide/5f133919b279dc27c467cb19?isReturned=false)
 * [Material Design](https://material.io/)
 * [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [UX Project Checklist](https://uxchecklist.github.io/)
