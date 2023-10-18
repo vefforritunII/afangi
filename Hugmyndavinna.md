@@ -1,3 +1,5 @@
+## Hugmyndavinna
+
 Unnið er eftir [hönnunarspretts](https://blog.kolibri.is/h%C3%B6nnunarsprettir-sem-virka-13def1c083b8) hugmyndafræði. 
 <br>
 
