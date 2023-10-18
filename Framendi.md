@@ -1,7 +1,7 @@
 ## Framendavefþróun 
 Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML. [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun.
 
----
+
 
 ### Vefhönnun 
 * [Material Design](https://material.io/)
@@ -32,7 +32,6 @@
   - [Vue Router for Everyone (myndband)](https://vueschool.io/courses/vue-router-for-everyone?friend=vuejs)
 -->
 
----
 
 <!--
 ### Routing í JavaScript (vanilla)
