@@ -12,7 +12,7 @@ Nemendur fást við hinar ýmsu hliðar í vefþróun. Nemendur mynda hópa til 
 - [Skipulag og vinnuflæði](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/Skipulag-og-vinnufl%C3%A6%C3%B0i)
 - [Framendavefþróun](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/Framendavef%C3%BEr%C3%B3un)
 - [REST API](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/REST-API)
-- [Gagnagrunnar] _væntanlegt?_
+- Gagnagrunnar _væntanlegt?_
 
 ---
 
