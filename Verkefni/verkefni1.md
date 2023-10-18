@@ -8,8 +8,8 @@
 Búið til [team og organization](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-organization,-project-and-team) í Github fyrir hópinn ykkar (bjóða kennara) og búið til readme.md sem inniheldur eftirfarandi:
 
 - [ ] (30%) Ítarleg verkefnalýsing byggð á; Double dimond, notendasögum (user stories) og sviðsmyndum (user scenarios). 
-- [ ] (10%) Wireframes og User scenes (á pappír). Taka ljósmyndir af skissum til hafa með í skýrslu.
-- [ ] (60%) Figma (mockups, prototype) fyrir vefapp.
+- [ ] (20%) Wireframes og User scenes (á pappír). Taka ljósmyndir af skissum til hafa með í skýrslu.
+- [ ] (50%) Figma (mockups, prototype) fyrir vefapp.
 
 ### Námsmat og skil
 Skilið á Innu GitHub slóð (readme.md) sem inniheldur ofangreint.
