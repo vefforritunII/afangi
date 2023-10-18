@@ -1,6 +1,5 @@
-Framendavefþróun er þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML.
-
-> [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun.
+## Framendavefþróun 
+Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML. [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun.
 
 ---
 
