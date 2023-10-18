@@ -22,12 +22,21 @@
    * [Tailwind CSS tutorial](https://tsh.io/blog/tailwind-css-tutorial/)
 
 
+
 ---
 
 ### JavaScript
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6)
-- [React](https://reactjs.org/) 
+- [React](https://react.dev/)
+- [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
 - [Typescript](https://www.typescriptlang.org/)
+
+> [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+
+<!-- 
+Vefskólinn: 
+https://io.vefskoli.is/guide/5f1335b8b279dc27c467cae5?isReturned=false  
+-->
 
 
 <!--
