@@ -4,6 +4,7 @@
 
 
 ### Vefhönnun 
+* [Awwards](https://www.awwwards.com/) _vefsíður með áherslu á hönnun_
 * [Material Design](https://material.io/)
 * [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [Laws of UX](https://lawsofux.com/)
