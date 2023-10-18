@@ -15,6 +15,7 @@ API (application programming interface) stendur fyrir forritunarviðmót og er l
 * [An Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)  
 * [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 * [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
+* [What is REST](https://www.restapitutorial.com/lessons/whatisrest.html)
 
 
 ---
