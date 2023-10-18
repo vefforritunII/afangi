@@ -9,7 +9,7 @@ Búið til [team og organization](https://github.com/collab-uniba/socialcde4ecli
 
 - [ ] (30%) Ítarleg verkefnalýsing byggð á; Double dimond, notendasögum (user stories) og sviðsmyndum (user scenarios). 
 - [ ] (20%) Wireframes og User scenes (á pappír). Taka ljósmyndir af skissum til hafa með í skýrslu.
-- [ ] (50%) Figma (mockups, prototype, flowchart) fyrir vefapp.
+- [ ] (50%) Figma (mockups, prototype) fyrir vefapp.
 
 ### Námsmat og skil
 Skilið á Innu GitHub slóð (readme.md) sem inniheldur ofangreint.
