@@ -2,8 +2,9 @@
 
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
-1. [ ] Rest API útfærsla (Flask). (**50%**)
-1. [ ] Gagnagrunnshönnun og vefþjónustur. (**50%**)
+1. [ ] Rest API útfærsla (Flask). (**40%**)
+1. [ ] Gagnagrunnshönnun og vefþjónustur. (**40%**)
+1. [ ] Uppsetning stafla (e. stack) á miðlara og hýsing. (**20%**)
 
 ### Námsmat og skil
 Einkunn er byggð á vinnuframlagi í teymi og ofangreindum verkþáttum:
