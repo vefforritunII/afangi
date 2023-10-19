@@ -1,4 +1,4 @@
-## Verkefni 4 (25%) 
+## Verkefni 4 (25%)  _drög_
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
 1. [ ] Routing, gagnvirkni og notendavirkni (React). (**40%**)
