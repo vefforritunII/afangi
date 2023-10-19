@@ -1,9 +1,8 @@
 ## Verkefni 4 (25%)  _drög_
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
-1. [ ] Routing, gagnvirkni og notendavirkni (React). (**40%**)
-1. [ ] Sérvirkni (e. business logic). (**40%**)
-1. [ ] Uppsetning stafla (e. stack) á miðlara og hýsing. (**20%**)
+1. [ ] Routing, gagnvirkni og notendavirkni (React). (**50%**)
+1. [ ] Sérvirkni (e. business logic), Python og/eða JavaScript. (**50%**)
 
 ---
 
