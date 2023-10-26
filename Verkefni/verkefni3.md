@@ -1,8 +1,7 @@
 ## Verkefni 3 _drög_
 - 25% af heildareinkunn.
   
-Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi.
-Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
+Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
 1. Uppsetning (**40%**)
     - [ ] responsive web design, mobile first.
@@ -16,8 +15,9 @@ Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
     - [ ] notendavirkni.
     - [ ] aðgengi.
 
-   <!-- - [ ] prófanir í mismunandi vöfrum og tæki (sími, spjaldtölva, tölva). -->
-   
+Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi.
+
+   <!-- - [ ] prófanir í mismunandi vöfrum og tæki (sími, spjaldtölva, tölva). -->   
 ---
 
 ### Námsmat og skil
