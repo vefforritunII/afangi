@@ -1,7 +1,6 @@
 ## Verkefni 2 
 
 - 15% af heildareinkunn.
-- Hópverkefni.
 - [Skipulag og vinnuflæði](https://github.com/vefforritunII/afangi/blob/main/Skipulag.md).
 
 ---
