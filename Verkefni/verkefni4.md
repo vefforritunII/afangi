@@ -4,7 +4,7 @@
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
 1. [ ] Routing, gagnvirkni og notendavirkni (React). (**50%**)
-1. [ ] Sérvirkni (JavaScript & Python). (**50%**)
+1. [ ] Sérvirkni. (**50%**)
 
 Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. 
 
