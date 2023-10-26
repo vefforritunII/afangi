@@ -1,9 +1,10 @@
 ## Verkefni 5 (25%)  _drög_
+- 25% af heildareinkunn
+  
+Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
-Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi. Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
-
-1. [ ] Rest API útfærsla (Flask). (**40%**)
-1. [ ] Gagnagrunnshönnun og vefþjónustur. (**40%**)
+1. [ ] Rest API (t.d. Flask) og gagnavinnsla (e. business logic). (**40%**)
+1. [ ] Gagnagrunnshönnun. (**40%**)
 1. [ ] Uppsetning stafla (e. stack) á miðlara og hýsing. (**20%**)
 
 ### Námsmat og skil
@@ -16,9 +17,10 @@ Einkunn fyrir hvern verkþátt:
 - 1/4 lausn er stórlega ábótavant, tíma og kóðavinna lögð í lausn.
 - 0/4 lausn vantar eða óunnin.
 
-#### Vinnusemi fyrir verkefni 2, 3, 4 og 5:
-Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst 0,5 frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið.
+Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi
 
+#### Verkefni 2, 3, 4 og 5:
+Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið með samþykki kennara.
 
 ---
 
