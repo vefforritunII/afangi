@@ -1,6 +1,7 @@
 ## Verkefni 2 
 
-- 15% af heildareinkunn
+- 15% af heildareinkunn.
+- Hópverkefni.
 - [Skipulag og vinnuflæði](https://github.com/vefforritunII/afangi/blob/main/Skipulag.md).
 
 ---
@@ -16,6 +17,7 @@ GitHub vinnuflæði og skipulag (hópverkefni):
 
 > ítarefni [Review pull requests](https://github.com/skills/review-pull-requests)
 
+Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi.
 <!-- 
 Veljið vinnuflæði við hæfi:
 - Feature Branch Workflow
