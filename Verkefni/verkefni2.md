@@ -11,7 +11,7 @@ GitHub vinnuflæði og skipulag (hópverkefni):
 - [ ] Fylgið [Scrum](https://www.scrum.org/resources/what-is-scrum) aðferðafræði við vefþróun.
 - [ ] Gerið viku vinnuáætlun með [Github Projects Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (To do, In progress, Done) útfrá verkefnalýsingu (verkefni 1). Sjá [sýnidæmi](https://github.com/vefforritunII/afangi/blob/main/Myndir/Projects.png)
 - [ ] Vinnið með [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues#filtering) í Github.
-- [ ] Setjið upp GitHub vinnuflæði (master- og feature branch). Leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts) þegar þau koma upp. 
+- [ ] Setjið upp Git vinnuflæði (master- og feature branch). Leysið [merge conflict](https://github.com/skills/resolve-merge-conflicts) þegar þau koma upp. 
 - [ ] Útbúið beta release, [release based workflow](https://github.com/skills/release-based-workflow).
 
 > ítarefni [Review pull requests](https://github.com/skills/review-pull-requests)
