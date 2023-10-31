@@ -38,3 +38,6 @@ Einkunn:
   
 #### Verkefni 2, 3, 4 og 5:
 Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið með samþykki kennara.
+
+Skilið á Innu undir Verkefni 2 vefslóð á GitHub sem inniheldur öll gögn og vefslóð á miðlara.
+
