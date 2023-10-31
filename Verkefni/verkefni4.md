@@ -1,4 +1,4 @@
-## Verkefni 4  _drög_
+## Verkefni 4  
 - 25% af heildareinkunn
   
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
