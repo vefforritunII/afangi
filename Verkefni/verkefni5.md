@@ -1,11 +1,11 @@
-## Verkefni 5 (25%)  _drög_
+## Verkefni 5 (25%)  
 - 25% af heildareinkunn
   
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
 
-1. [ ] Rest API (t.d. Flask) og gagnavinnsla (e. business logic). (**40%**)
+1. [ ] Rest API (t.d. Flask) og gagnavinnsla (e. business logic). (**50%**)
 1. [ ] Gagnagrunnshönnun. (**40%**)
-1. [ ] Uppsetning stafla (e. stack) á miðlara og hýsing. (**20%**)
+1. [ ] Uppsetning stafla (e. stack) á miðlara og hýsing. (**10%**)
 
 ### Námsmat og skil
 Einkunn er byggð á vinnuframlagi í teymi og ofangreindum verkþáttum:
