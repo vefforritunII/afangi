@@ -1,4 +1,4 @@
-## Verkefni 3 _drög_
+## Verkefni 3 
 - 25% af heildareinkunn.
   
 Smíða skal vefapp útfrá verkefnalýsingu (sjá verkefni 1). Skoðað eru eftirfarandi verkþættir í þessum hluta vefapps:
