@@ -27,17 +27,14 @@
 
 ### JavaScript
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6)
-- [React](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)- [React](https://react.dev/)
 - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
-- [React (vefforritun II,HÍ)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)
-- [Typescript](https://www.typescriptlang.org/)
+- [React (vefforritun II, HÍ)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)
+- [React (Vefskólinn, Tækniskólinn)](https://io.vefskoli.is/guides)
+
 
 > [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 
-<!-- 
-Vefskólinn: 
-https://io.vefskoli.is/guide/5f1335b8b279dc27c467cae5?isReturned=false  
--->
 
 
 <!--
