@@ -32,7 +32,7 @@
     - [React (vefforritun II, HÍ)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)
     - [React (Vefskólinn, Tækniskólinn)](https://io.vefskoli.is/guides)
     - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
-    - [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/part1)
+    - [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/about)
 
 
 
