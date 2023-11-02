@@ -28,7 +28,7 @@
     - [Quick Start (official tutorial)](https://react.dev/learn)
     - [Create React App](https://create-react-app.dev/) og [Depoyment: live site on Github](https://create-react-app.dev/docs/deployment/#github-pages)
     - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
-    - [React: Vefskólinn (Tækniskólinn)](https://io.vefskoli.is/guides)
+    - [React: Vefskólinn (Tækniskólinn)](https://io.vefskoli.is/guides) _sjá module 4_
     - [React: Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)
     - [React: Deep Dive Into Modern Web Development (Helsinki University)](https://fullstackopen.com/en/about)
 
