@@ -19,8 +19,9 @@ Einkunn fyrir hvern verkþátt:
 
 Verkefni 2, 3, 4 og 5 eru unnin samhliða í teymi
 
-#### Verkefni 2, 3, 4 og 5:
-Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. Þetta á ekki við ef nemandi er veikur eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið með samþykki kennara.
+#### Vinnumat: Verkefni 2, 3, 4 og 5:
+Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. <br>
+Undanþága (háð samþykki kennarar): Þetta á ekki við ef nemandi er veikur, í árekstri eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið heima í **sömu viku** og geti sýnt fram á það með commits í Github.
 
 ---
 
