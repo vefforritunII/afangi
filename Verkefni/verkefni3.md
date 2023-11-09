@@ -31,9 +31,10 @@ Einkunn fyrir hvern verkþátt:
 - 0/4 lausn vantar eða óunnin.
 
 
-#### Verkefni 2, 3, 4 og 5:
+#### Vinnumat: Verkefni 2, 3, 4 og 5:
 Fyrir hverja 2 x 50 mín sem nemandi mætir ekki (eða er óvirkur) í tíma dregst **0,5** frá einkunn hjá viðkomandi. <br>
 Undanþága (háð samþykki kennarar): Þetta á ekki við ef nemandi er veikur, í árekstri eða með leyfi og með þeim skilyrðum að nemandi vinni upp tapið heima í **sömu viku** og geti sýnt fram á það með commits í Github.
+
 
 Skilið á Innu undir Verkefni 3 vefslóð á GitHub sem inniheldur öll gögn og vefslóð á miðlara.
 
