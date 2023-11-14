@@ -46,7 +46,7 @@
 1. Git & GitHub með VS Code.
    1. búðu til python skrá (halló heimur) (í virtual umhverfi (venv)).
    1. útbúðu .gitignore skrá með .vscode (og venv)
-   1. sýndu fram á  [git notkun í VS Code](https://github.com/GunnarThorunnarson/VEFTHROUN/wiki/Skipulag-og-vinnufl%C3%A6%C3%B0i#git); stage, commit, diff, branch og merge.
+   1. sýndu fram á  git notkun í VS Code; stage, commit, diff, branch og merge.
    1. tengdu Git við GitHub í VSCode og sýndu fram á notkun með push og pull. 
    1. skoðaðu [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
    1. Leysið merge conflict í VS Code. 
