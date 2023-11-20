@@ -14,7 +14,11 @@
 
 - [Github skills](https://skills.github.com/)
 - ​[Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
-<!-- - [Github Desktop](https://desktop.github.com/) -->
+
+<!-- 
+- [Github: Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [Github Desktop](https://desktop.github.com/) 
+-->
   
 ---
 
