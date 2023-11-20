@@ -3,7 +3,8 @@
 ### Git 
 
 - [Git leiðbeiningar á íslensku](https://github.com/gaui/git) og [Git Handbók á íslensku (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_Handbok_islensk.pdf)
-- [Version Control in VS Code](https://code.visualstudio.com/docs/introvideos/versioncontrol) (myndband) og [Using Git in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol) 
+- [Using Git in VS Code](https://code.visualstudio.com/docs/introvideos/versioncontrol) (myndband)
+- [Using Git source control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol) (myndbönd)
 <!-- - [Sourcetree](https://www.sourcetreeapp.com/) Git GUI -->
 
 
