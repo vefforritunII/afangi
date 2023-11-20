@@ -35,8 +35,7 @@
 
 ### Skipulag 
 - [How to setup a GitHub organization, project and team](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-organization,-project-and-team)
-- [Github Project managment](https://github.com/features/project-management/)
-- [About Github project boards](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards#templates-for-project-boards)
+- [Github Project managment](https://github.com/features/project-management/) & [About Github project boards (classic)](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards#templates-for-project-boards)
 - [Mastering Issues](https://guides.github.com/features/issues/#filtering)
 
 ---
