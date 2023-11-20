@@ -6,11 +6,11 @@ Nemendur fást við hinar ýmsu hliðar í vefþróun. Nemendur mynda hópa til 
 ### Fyrirkomulag:
 
 - Unnið er eftir Agile-Scrum og nemendur vinna í hópum og skipta verkum.
-- Regluleg skil (push) á Github frá hverjum nemanda (lágmark 1 pr viku).
-- Fyrsti tími vikunnar þá þurfa nemendur að útbúa `TODO` í `Github PROJECTS` fyrir vikuna.
-- Síðasti tími vikunnar er stöðufundur með hópum með kennara þar sem farið er yfir `In Process / Done` í `Github Projects`. 
-- Notum Teams spjallhópa þegar einhver kemst ekki í tíma eða ef tíminn þarf að færast í fjarnám (veikindi). 
+- Regluleg skil (push) á Github frá hverjum nemanda.
+- Fyrsti tími vikunnar útbúa nemendur `TODO` í `Github PROJECTS` fyrir vikuna.
+- Síðasti tími vikunnar er stöðufundur með hópunm með kennara þar sem farið er yfir `In Process / Done` í `Github Projects`. 
 - Hver nemandi heldur auk þess dagbók fyrir sig til að halda utan um lærdóm.
+- Notum Teams spjallhópa þegar einhver kemst ekki í tíma eða ef tíminn þarf að færast í fjarnám (veikindi). 
   
 ---
 
