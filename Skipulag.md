@@ -1,6 +1,6 @@
 ## Skipulag og vinnuflæði
 
-### Git & GiHub
+### Git & GitHub
 
 - [Git leiðbeiningar á íslensku](https://github.com/gaui/git) 
 - [Using Git source control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol) 
