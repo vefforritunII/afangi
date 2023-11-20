@@ -13,7 +13,7 @@
 
 - [Github skills](https://skills.github.com/)
 - ​[Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
-- [Github Desktop](https://desktop.github.com/)
+<!-- - [Github Desktop](https://desktop.github.com/) -->
   
 ---
 
