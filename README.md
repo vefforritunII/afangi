@@ -10,7 +10,7 @@ Nemendur fást við hinar ýmsu hliðar í vefþróun. Nemendur mynda hópa til 
 - Fyrsti tími vikunnar útbúa nemendur `TODO` í `Github PROJECTS` fyrir vikuna.
 - Síðasti tími vikunnar er stöðufundur með hópunm með kennara þar sem farið er yfir `In Process / Done` í `Github Projects`. 
 - Hver nemandi heldur auk þess dagbók fyrir sig til að halda utan um lærdóm.
-- Notum Teams spjallhópa þegar einhver kemst ekki í tíma eða ef tíminn þarf að færast í fjarnám (veikindi). 
+- Notum Teams spjallhópa þegar einhver kemst ekki í tíma eða ef tíminn þarf að færast í fjarnám. 
   
 ---
 
