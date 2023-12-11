@@ -37,10 +37,12 @@ Eftirfarandi þarf að vera uppfyllt fyrir lokaskil á verkefnum 2, 3, 4 og 5:
     1.	Verkefnalýsing og myndir (Verkefni 1).
     1.	Taka fram innihald stafla, framework og söfn, gagnagrunnshönnun. 
     1.	Skjámyndir af vefappi.
-    1.	Skjámynd af vinnuflæði (Network graph, _Insights -> Network_). 
     1.	Tengill á youtube með stutta skjámyndsupptöku af notendavirkni sjá td. https://screencast-o-matic.com/ 
     1.	Samantekt. Hver væru næstu skref, ókláruð virkni.
 
 Skilið á Innu undir **Verkefni 5** vefslóð á GitHub sem inniheldur öll gögn og vefslóð á miðlara. <br>
 Halda þarf stutta kynningu á afurð í kennslustund í síðasta tímanum.
 
+<!--     
+1.	Skjámynd af vinnuflæði (Network graph, _Insights -> Network_). 
+-->
