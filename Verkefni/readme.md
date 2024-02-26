@@ -1,6 +1,6 @@
 ### Verkefni
-- Verkefni 1 (10%) Hugmyndavinna
-- Verkefni 2 (15%) Skipulag
-- Verkefni 3 (25%) Hönnun
-- Verkefni 4 (25%) Framendi
-- Verkefni 5 (25%) Bakendi
+- Verkefni 1 (%) 
+- Verkefni 2 (%) 
+- Verkefni 3 (5%) 
+- Verkefni 4 (%) Framendi
+- Verkefni 5 (%) Bakendi
