@@ -19,6 +19,7 @@ Nemendur fást við hinar ýmsu hliðar í vefþróun. Nemendur mynda hópa til 
 - [Hugmyndavinna](https://github.com/vefforritunII/afangi/blob/main/Hugmyndavinna.md)
 - [Skipulag](https://github.com/vefforritunII/afangi/blob/main/Skipulag.md)
 - [Framendavefþróun](https://github.com/vefforritunII/afangi/blob/main/Framendi.md)
+<!--
 - [REST API](https://github.com/vefforritunII/afangi/blob/main/RESTAPI.md)
-
+-->
 
