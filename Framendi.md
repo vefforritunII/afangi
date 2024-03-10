@@ -25,27 +25,17 @@
 ### React
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6)
 - [Typescript](https://www.typescriptlang.org/)
-- [React](https://react.dev/)
-    - [Quick Start (official tutorial)](https://react.dev/learn)
-    - [Create React App](https://create-react-app.dev/) 
-    - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
-    - [React: Vefskólinn (Tækniskólinn)](https://io.vefskoli.is/guides) _sjá module 4_
-    - [React: Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)
-
+- [React](https://react.dev/) & [Quick Start (official tutorial)](https://react.dev/learn)
+  
 <!--
-    - [Depoyment: live site on Github](https://create-react-app.dev/docs/deployment/#github-pages)
+    - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
+    - [React: Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)
+    - [React: Vefskólinn (Tækniskólinn)](https://io.vefskoli.is/guides) _sjá module 4_  
+    - [Create React App](https://create-react-app.dev/) & [Depoyment: live site on Github](https://create-react-app.dev/docs/deployment/#github-pages)
     - [React: Deep Dive Into Modern Web Development (Helsinki University)](https://fullstackopen.com/en/about)
 -->
 
 ---
-
-<!--
-  - [Preact](https://preactjs.com/)
-  - [Vue.js](https://v3.vuejs.org/) (Version 3)
-    - [Vue Routing](https://v3.vuejs.org/guide/routing.html#official-router)
-    - [Vue Router for Everyone (myndband)](https://vueschool.io/courses/vue-router-for-everyone?friend=vuejs)
-  - [Svelte](https://svelte.dev/) tiny framework.
--->
 
 <!--
 ### Routing í JavaScript (vanilla)
