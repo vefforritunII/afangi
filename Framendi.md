@@ -24,8 +24,8 @@
 
 ### React
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6)
+- [React Quick Start (official tutorial)](https://react.dev/learn)
 - [Typescript](https://www.typescriptlang.org/)
-- [React](https://react.dev/) & [Quick Start (official tutorial)](https://react.dev/learn)
   
 <!--
     - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
