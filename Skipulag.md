@@ -18,10 +18,11 @@
   
 ---
 
-### Vinnuflæði
+### Hópvinna
+- [Git vinnuflæði fyrirlestur (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_fyrirlestur.pdf)
+  - [Gitflow: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+  - [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Hvað er Scrum](https://www.scrum.org/resources/what-is-scrum) og [Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
-- [Git vinnuflæði fyrirlestur (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_fyrirlestur.pdf) og [Gitflow: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-
 
 <!--
 ![Skýringarmynd af Gitflow](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/myndir/Gitflow.svg)
