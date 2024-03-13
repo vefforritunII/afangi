@@ -11,15 +11,18 @@
 
 
 ### CSS 
-* [Top 20 Best CSS Frameworks for Front-End Developers in 2023](https://hackr.io/blog/best-css-frameworks)
 * [How to Organize Your CSS with a Modular Architecture
 (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
-* [Tailwindcss](https://tailwindcss.com/)
+* [Material UI](https://mui.com/material-ui/) _byggt á styleguide frá Google_
+* [Styled Components](https://styled-components.com/)
+* [Top 20 Best CSS Frameworks for Front-End Developers in 2023](https://hackr.io/blog/best-css-frameworks)
+  * [Tailwindcss](https://tailwindcss.com/)
+
+<!--
    * [Get started with Tailwind CSS](https://tailwindcss.com/docs/installation)
    * [Utility-First Fundamentals](https://tailwindcss.com/docs/utility-first)
    * [Tailwind CSS tutorial](https://tsh.io/blog/tailwind-css-tutorial/)
-* [Material UI](https://mui.com/material-ui/) _byggt á styleguide frá Google_
-
+-->
 
 ### JavaScript söfn
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6)
