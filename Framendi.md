@@ -1,7 +1,5 @@
 ## Framendavefþróun 
-Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML.
-
-> [handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun.
+Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML. [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun.
 
 
 ### Vefhönnun 
