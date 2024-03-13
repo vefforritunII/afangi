@@ -1,5 +1,9 @@
 ## Framendavefþróun 
-Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML. [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun.
+Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML.
+
+> [handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun.
+
+---
 
 ### Vefhönnun 
 * [Awwards](https://www.awwwards.com/) _vefsíður með áherslu á hönnun_
@@ -26,6 +30,8 @@
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6)
 - [React Quick Start (official tutorial)](https://react.dev/learn)
 - [Typescript](https://www.typescriptlang.org/)
+
+
   
 <!--
     - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
@@ -35,7 +41,6 @@
     - [React: Deep Dive Into Modern Web Development (Helsinki University)](https://fullstackopen.com/en/about)
 -->
 
----
 
 <!--
 ### Routing í JavaScript (vanilla)
