@@ -1,10 +1,9 @@
 
 Bakendinn er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d).
 
-
 ---
 
-## REST API
+### REST API
 API (application programming interface) stendur fyrir forritunarviðmót og er leið til að hafa forritunarleg samskipti við tiltekinn hugbúnaðaríhlut. API hjálpa ekki aðeins notendum að hafa samskipti við forrit heldur gera tveimur eða mörgum forritum kleift að hafa samskipti sín á milli. 
 
 * [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) _(stutt myndband)_.  
