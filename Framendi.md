@@ -3,7 +3,6 @@
 
 > [handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun.
 
----
 
 ### Vefhönnun 
 * [Awwards](https://www.awwwards.com/) _vefsíður með áherslu á hönnun_
@@ -12,7 +11,6 @@
 * [Laws of UX](https://lawsofux.com/)
 * [UX Project Checklist](https://uxchecklist.github.io/)
 
----
 
 ### CSS 
 * [Top 20 Best CSS Frameworks for Front-End Developers in 2023](https://hackr.io/blog/best-css-frameworks)
@@ -24,7 +22,6 @@
    * [Tailwind CSS tutorial](https://tsh.io/blog/tailwind-css-tutorial/)
 * [Material UI](https://mui.com/material-ui/) _byggt á styleguide frá Google_
 
----
 
 ### JavaScript söfn
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6)
