@@ -6,7 +6,7 @@
 ---
 
 ### Verkefnalýsing 
-Í þessu verkefni verður unnið með hönnunarspretti (e. Design Sprints) við að hanna vefapp byggt á þarfagreiningu og hugmyndavinnu. Þið munið svo smíða vefappið (frumgerð) í verkefni 4 og 5 í teymi. <br>
+Í þessu verkefni verður unnið með hönnunarspretti (Design Sprints) við að hanna vefapp byggt á þarfagreiningu og hugmyndavinnu. Þið munið svo smíða vefappið (frumgerð) í verkefni 4 og 5 í teymi. <br>
 
 Byrjið á því (nóg að einn geri) að búa til [team og organization](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-organization,-project-and-team) í Github fyrir hópinn ykkar _(bjóða kennara `GunnarThorunnarson`)_ og búið til repository með readme.md sem inniheldur eftirfarandi:
 
