@@ -5,7 +5,7 @@ Unnið er eftir [hönnunarspretts](https://blog.kolibri.is/h%C3%B6nnunarsprettir
 
 [Hönnunarsprettir](https://blog.kolibri.is/af-hverju-h%C3%B6nnunarsprettir-91c441e2b664) (e. Design Sprints) eru vinsæl aðferð þar sem hönnunarhugsun (e. Design Thinking) er beitt til að snúa vandamálum ([double dimond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/) aðferð) yfir í tækifæri og ramma viðfangsefni inn með upplifun og þarfir viðskiptavina í fyrirrúmi. Á meðan á hönnunarspretti stendur, koma mismunandi aðilar með mismunandi færni og þekkingu saman og vinna með hagkvæmni og hraða að leiðarljósi.
 
-Í hönnunarspretti er engin hugmynd slæm hugmynd. Allir fá nokkrar hugmyndir, tíma til að melta og pæla. Til að hámarka árangur hönnunarspretta og hönnunarhugsunar þarf að skapa rými til hugsa út fyrir kassann, gera tilraunir, gera mistök og læra af þeim. Allar hugmyndir ræddar í hóp og ein valin.
+Í hönnunarspretti er engin hugmynd slæm hugmynd. Allir fá nokkrar hugmyndir, tíma til að melta og pæla. Til að hámarka árangur hönnunarspretta og hönnunarhugsunar þarf að skapa rými til hugsa út fyrir kassann, gera tilraunir, gera mistök og læra af þeim. Allar hugmyndir ræddar í hóp og ein valin. Þessi aðferðafræði hjálpar fólki að hugsa út fyrir kassann, skapa og gefa frá sér einstakar hugmyndir. 
 
 
 #### Þarfagreining
