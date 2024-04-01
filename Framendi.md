@@ -1,6 +1,5 @@
 ## Framendavefþróun 
-Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML. [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun.
-
+Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML. [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun og [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6).
 
 ### Vefhönnun 
 * [Awwards](https://www.awwwards.com/) _vefsíður með áherslu á hönnun_
@@ -8,7 +7,6 @@
 * [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [Laws of UX](https://lawsofux.com/)
 * [UX Project Checklist](https://uxchecklist.github.io/)
-
 
 ### CSS 
 * [How to Organize Your CSS with a Modular Architecture
@@ -24,21 +22,30 @@
    * [Tailwind CSS tutorial](https://tsh.io/blog/tailwind-css-tutorial/)
 -->
 
-### JavaScript söfn
-- [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6)
-  - [React Quick Start (official tutorial)](https://react.dev/learn)
-- [Typescript](https://www.typescriptlang.org/)
+### React
 
+Get Started:
+   1. [Quick Start](https://react.dev/learn) til að læra grunnatriðin í React.
+   1. [Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe) tutorial með local setup.
+   1. [Thinking in React](https://react.dev/learn/thinking-in-react).
 
-  
+Learn React:
+   1. [Describing the UI](https://react.dev/learn/describing-the-ui)
+   1. [Adding Interactivity](https://react.dev/learn/adding-interactivity)
+   1. [Managing State](https://react.dev/learn/managing-state)
+   1. [Escape Hatches](https://react.dev/learn/lifecycle-of-reactive-effects)
+
+### TypeScript
+   - [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+   - [Typescript og React](https://react.dev/learn/typescript) 
+
+   
 <!--
     - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
     - [React: Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)
     - [React: Vefskólinn (Tækniskólinn)](https://io.vefskoli.is/guides) _sjá module 4_  
-    - [Create React App](https://create-react-app.dev/) & [Depoyment: live site on Github](https://create-react-app.dev/docs/deployment/#github-pages)
     - [React: Deep Dive Into Modern Web Development (Helsinki University)](https://fullstackopen.com/en/about)
 -->
-
 
 <!--
 ### Routing í JavaScript (vanilla)
