@@ -1,12 +1,16 @@
 ## Framendavefþróun 
 Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML. [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun og [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6).
 
+---
+
 ### Vefhönnun 
 * [Awwards](https://www.awwwards.com/) _vefsíður með áherslu á hönnun_
 * [Material Design](https://material.io/)
 * [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [Laws of UX](https://lawsofux.com/)
 * [UX Project Checklist](https://uxchecklist.github.io/)
+
+---
 
 ### CSS 
 * [How to Organize Your CSS with a Modular Architecture
@@ -22,6 +26,8 @@
    * [Tailwind CSS tutorial](https://tsh.io/blog/tailwind-css-tutorial/)
 -->
 
+---
+
 ### React
 
 Get Started:
@@ -34,6 +40,8 @@ Learn React:
    1. [Adding Interactivity](https://react.dev/learn/adding-interactivity)
    1. [Managing State](https://react.dev/learn/managing-state)
    1. [Escape Hatches](https://react.dev/learn/lifecycle-of-reactive-effects)
+
+---
 
 ### TypeScript
    - [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
