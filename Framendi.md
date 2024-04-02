@@ -30,7 +30,7 @@
 
 ### React
 - [Learn React](https://react.dev/learn)
-- [Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)
+- _ítarefni_ [Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)
 
 ---
 
