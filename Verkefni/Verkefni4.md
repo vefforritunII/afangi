@@ -23,7 +23,7 @@ Smíða skal vefapp útfrá verkefnalýsingu (Verkefni 3). Metið er í þessum 
 - Unnið er eftir Agile [Scrum](https://www.scrum.org/learning-series/what-is-scrum/) aðferðafræði, nemendur vinna í hópum og skipta verkum á milli sín.  
 - Teymin vinna eftir eftirfarandi [Git & GithHub vinnuflæði](https://github.com/GunnarThorunnarson/CodeVoyagers/tree/develop/Guides/Workflow%20Long#git-step-by-step-instructions).
 - Fyrsti tími vikunnar útbúa nemendur `TODO` í `Github PROJECTS` fyrir vikuna.
-- Í síðasti tími vikunnar er stöðufundur með hópunm og kennara þar sem farið er yfir `In Process / Done` í `Github Projects`. 
+- Stöðufundur er haldinn vikulega með hópunm og kennara þar sem farið er yfir `In Process / Done` í `Github Projects`. 
 - Nota skal Discord/Teams þegar það á við.
 - Hver nemandi heldur auk þess dagbók fyrir sig til að halda utan um lærdóm og prófanir.
 
