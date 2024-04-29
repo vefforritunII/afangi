@@ -13,6 +13,7 @@ API (application programming interface) stendur fyrir forritunarviðmót og er l
 <!--
 * [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 * [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
+* [Flask-RESTful _extension_](https://flask-restful.readthedocs.io/en/latest/)
 -->
 
 ---
