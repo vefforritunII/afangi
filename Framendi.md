@@ -41,7 +41,7 @@
 
 ---
 
-### Greinar og annað gagnlegt
+### Greinar 
 - [Ellert Smári](https://ellertsmarik.medium.com/)
 
    
