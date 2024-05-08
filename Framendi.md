@@ -39,6 +39,11 @@
 - [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [Typescript og React](https://react.dev/learn/typescript) 
 
+---
+
+### Greinar og annað gagnlegt
+- [Ellert Smári](https://ellertsmarik.medium.com/)
+
    
 <!--
     - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
