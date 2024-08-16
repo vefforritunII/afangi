@@ -34,12 +34,6 @@ API (application programming interface) stendur fyrir forritunarviðmót og er l
   - Node.js is an ideal choice for developing applications requiring vast data storage processing.
 -->
 
-<!--
-**Flask Tutorials:**
-- [Python Flask From Scratch](https://www.youtube.com/watch?v=zRwy8gtgJ1A)
-- [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- [FLask todoapp](https://morioh.com/p/0211e637f4db)
--->
 
 <!--
 **Flask viðbætur og söfn:**
