@@ -1,8 +1,10 @@
 # Nemendaverkefni
 
-## Haust 2023
+## Vor 2024
 
-Væntanlegt :)
+---
+
+## Haust 2023
 
 ---
 
