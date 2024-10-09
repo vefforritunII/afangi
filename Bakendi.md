@@ -1,8 +1,10 @@
 
-### Bakendavefþróun
+## Bakendavefþróun
 Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d).
 
-#### REST API
+---
+
+### REST API
 [API](https://www.youtube.com/watch?v=s7wmiS2mSXY) (application programming interface) stendur fyrir forritunarviðmót. API er notað til að sækja gögn á milli kerfa, [nánar um API](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/). Hér [Postman VSCode viðbót](JSON/VSC_Postman/README.md) til að prófa að gera API fyrirspurnir. [REST](https://www.codecademy.com/article/what-is-rest) er algeng aðferð til að búa til sinn eigin API (RESTFUL API) þegar það á við.
 - [REST API using Flask in 7 minutes](https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239) 
 - [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
