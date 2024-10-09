@@ -2,6 +2,10 @@
 ## Bakendavefþróun
 Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d).
 
+Vinsælir staflar (stacks):
+- [What is your favorite React stack?](https://dev.to/codeofrelevancy/what-is-your-favorite-react-stack-4p)
+- [Why Flask + React Should Be The Go-To Stack for New Startups](https://spencerporter2.medium.com/interpreted-why-flask-react-should-be-the-go-to-stack-for-new-startups-306c83d49169)
+
 ---
 
 ### REST API
@@ -20,9 +24,7 @@ Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logi
 ## Flask
 [Flask](https://flask.palletsprojects.com/en/2.2.x/) er Python veframmi (_web framework_) sem er byggður á litlum kjarna og auðvelt er að framlengja hann með viðbótum í pakkaformi (_package manager_). Flask er talið meira _Pythonic_ en Django veframminn vegna þess að Flask vefforrit er skýrara (_explicit_). [Flask API](https://tedboy.github.io/flask/interface_api.html).
 
-- [Why Flask + React Should Be The Go-To Stack for New Startups](https://spencerporter2.medium.com/interpreted-why-flask-react-should-be-the-go-to-stack-for-new-startups-306c83d49169)
-   - The application factory pattern lets you to build incredibly well organized and modular code
-   - Using the top two most popular languages means you get access to the biggest communities for support
+
 - [Node.js vs. Flask](https://hostadvice.com/blog/web-hosting/node-js/node-js-vs-flask/#:~:text=Developers%20can%20leverage%20these%20frameworks,created%20to%20extend%20existing%20microframeworks.)
   - Flask is the ideal solution for generating RESTful APIs that deliver lightning-fast responses to HTTP
   - Flask is a great choice for prototyping and building MVPs
