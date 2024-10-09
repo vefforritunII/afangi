@@ -2,8 +2,8 @@
 ## Bakendavefþróun
 Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d).
 
-Vinsælir staflar (stacks):
-- [What is your favorite React stack?](https://dev.to/codeofrelevancy/what-is-your-favorite-react-stack-4p)
+Staflar:
+- [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i)
 - [Why Flask + React Should Be The Go-To Stack for New Startups](https://spencerporter2.medium.com/interpreted-why-flask-react-should-be-the-go-to-stack-for-new-startups-306c83d49169)
 
 ---
