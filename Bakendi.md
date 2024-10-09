@@ -1,19 +1,17 @@
 
-Bakendavefþróun er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d).
+**Bakendavefþróun** er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d).
 
 ---
 
-### REST API
-API (application programming interface) stendur fyrir forritunarviðmót og er leið til að hafa forritunarleg samskipti við tiltekinn hugbúnaðaríhlut. API hjálpa ekki aðeins notendum að hafa samskipti við forrit heldur gera tveimur eða mörgum forritum kleift að hafa samskipti sín á milli. 
 
-* [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) _(stutt myndband)_.  
-* [An Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)  
-* [What is REST](https://www.restapitutorial.com/lessons/whatisrest.html)
+### REST API
+[API](https://www.youtube.com/watch?v=s7wmiS2mSXY) (application programming interface) stendur fyrir forritunarviðmót. API er notað til að sækja gögn á milli kerfa, [nánar um API](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/). Hér [Postman VSCode viðbót](JSON/VSC_Postman/README.md) til að prófa að gera API fyrirspurnir. [REST](https://www.codecademy.com/article/what-is-rest) er algeng aðferð til að búa til sinn eigin API (RESTFUL API) þegar það á við.
+- [REST API using Flask in 7 minutes](https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239) 
+- [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
+- [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 
 <!--
-* [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
-* [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
-* [Flask-RESTful _extension_](https://flask-restful.readthedocs.io/en/latest/)
+> [xmltodict 0.13.0](https://pypi.org/project/xmltodict/) _Makes working with XML feel like you are working with JSON_
 -->
 
 ---
