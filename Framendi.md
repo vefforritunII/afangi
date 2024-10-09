@@ -1,7 +1,6 @@
 ## Framendavefþróun 
 Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML. [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun og [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6).
 
-- [HTMX vs REACT](https://www.builder.io/blog/htmx-vs-react)
   
 ---
 
@@ -31,15 +30,10 @@
 
 ---
 
-### React
-- [Learn React](https://react.dev/learn)
-- _ítarefni [Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)_
-
----
-
-### TypeScript
-- [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- [Typescript og React](https://react.dev/learn/typescript) 
+### JavaScript (React)
+- [Learn React](https://react.dev/learn) og _ítarefni [Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)_
+- [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html), [Typescript og React](https://react.dev/learn/typescript) 
+- [HTMX vs REACT](https://www.builder.io/blog/htmx-vs-react)
 
 <!--
 ---
