@@ -1,1 +1,0 @@
-- [Drag and drop](https://www.codeguage.com/courses/js/drag-and-drop-basics)
