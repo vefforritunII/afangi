@@ -1,11 +1,24 @@
 # Nemendaverkefni
 
+## Haust 2024
+
+---
+
 ## Vor 2024
 
+- [MyndaAlbum](https://github.com/vefforritunII/V24_MyndaAlbum) _Next.js, TailwindCSS, Firebase_
+- [Bokamarkaður](https://github.com/vefforritunII/V24_Bokamarkadurinn) _Next.js, PostgreSQL (Supabase), Tailwind CSS_
+- [Bellaser](https://github.com/vefforritunII/V24_Bellaser) _next.js, Firebase, _
+  
 ---
 
 ## Haust 2023
 
+- [Leikur að lesa](https://github.com/vefforritunII/VEF4_H23_Leikur_ad_lesa) _React, Vite, Flask, Amazon RDS_
+- [Framhaldsskólaleitin](https://github.com/vefforritunII/VEF4_H23_Framhaldsskolaleitin) _MERN_
+- [Shopping List](https://github.com/vefforritunII/VEF4_H23_Shopping-List) _Next.js, SQL_
+- [Hvar er tónlist](https://github.com/vefforritunII/VEF4_H23_HvarErTonlist) _MERN, Firebase_
+  
 ---
 
 ## Haust 2022
