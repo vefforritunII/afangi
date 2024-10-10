@@ -1,7 +1,6 @@
 
 ## Bakendavefþróun
-Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d). [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i)
-
+Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d). Hér eru dæmi um stafla í vefþróun, [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i).
 
 ---
 
