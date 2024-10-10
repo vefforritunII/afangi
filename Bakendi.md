@@ -1,10 +1,7 @@
 
 ## Bakendavefþróun
-Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d).
+Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d). [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i)
 
-tech stacks:
-- [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i)
-- [Flask + React for startups](https://spencerporter2.medium.com/interpreted-why-flask-react-should-be-the-go-to-stack-for-new-startups-306c83d49169), [A beginner´s guide](https://medium.com/@eylemaytas1/building-a-full-stack-website-with-react-and-flask-a-beginners-guide-7a351888875c)
 
 ---
 
