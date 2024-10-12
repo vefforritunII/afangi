@@ -16,4 +16,3 @@ Búið til [team og organization](https://github.com/collab-uniba/socialcde4ecli
 ### Námsmat og skil
 - Skilið á Innu GitHub slóð (readme.md) sem inniheldur ofangreint.
 - Gefið er fullt fyrir lið sem er vel útfærður, hálft ef hann er ábótavant.
-
