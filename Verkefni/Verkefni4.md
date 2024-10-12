@@ -1,6 +1,6 @@
 ## Verkefni 4 (35%)
-- [Framendavefþróun](https://github.com/vefforritunII/afangi/blob/main/Framendi.md)
 - 35% af heildareinkunn
+- [Framendavefþróun](https://github.com/vefforritunII/afangi/blob/main/Framendi.md)
 - Verkefni 3, 4 og 5 eru unnin samhliða í teymi
 
 
