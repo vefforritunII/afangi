@@ -6,8 +6,8 @@ Nemendur fást við hinar ýmsu hliðar í vefþróun. Nemendur mynda hópa til 
 
 ### Efnisyfirlit
 - [Verkefnin](https://github.com/vefforritunII/afangi/tree/main/Verkefni)
-- [Vinnuflæði](https://github.com/vefforritunII/afangi/blob/main/Skipulag.md)
 - [Hugmyndavinna](https://github.com/vefforritunII/afangi/blob/main/Hugmyndavinna.md)
+- [Vinnuflæði](https://github.com/vefforritunII/afangi/blob/main/Skipulag.md)
 - [Framendavefþróun](https://github.com/vefforritunII/afangi/blob/main/Framendi.md)
 - [Bakendavefþróun](https://github.com/vefforritunII/afangi/blob/main/Bakendi.md)
 
