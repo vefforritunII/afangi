@@ -8,7 +8,7 @@
 
 - [MyndaAlbum](https://github.com/vefforritunII/V24_MyndaAlbum) _Next.js, TailwindCSS, Firebase_
 - [Bokamarkaður](https://github.com/vefforritunII/V24_Bokamarkadurinn) _Next.js, PostgreSQL (Supabase), Tailwind CSS_
-- [Bellaser](https://github.com/vefforritunII/V24_Bellaser) _next.js, Firebase, _
+- [Bellaser](https://github.com/vefforritunII/V24_Bellaser) _next.js, Firebase_
   
 ---
 
@@ -23,7 +23,7 @@
 
 ## Haust 2022
 
-### lets-make-music
+- lets-make-music
 - Fannar, Sæbjörn, Ágúst, Guðjón
 - https://github.com/Vef2-musc
 - Stack: Flask, Firebase
