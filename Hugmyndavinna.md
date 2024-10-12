@@ -17,7 +17,9 @@
    1. [Paper wireframing](https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13) og [templates](https://sneakpeekit.com/) til útprentunar.
 
 > _ítarefni:_ [Figma](https://www.figma.com/), [Figma interface handbook](https://designcode.io/figma-handbook-figma-interface), [Figma 101](https://designlab.com/figma-101-course/introduction-to-figma/)
-      
+
+<br>
+
 <!--
    - [Ítarefni: Web Design: Wireframes to Prototypes (Coursera)](https://www.coursera.org/learn/web-design-wireframes-prototypes?action=enroll)
 -->
