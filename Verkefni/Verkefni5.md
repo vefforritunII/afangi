@@ -4,7 +4,7 @@
 - Verkefni 3, 4 og 5 eru unnin samhliða í teymi
 
 ### Verkefnalýsing
-Smíða skal vefapp útfrá verkefnalýsingu (Verkefni 3). Metið er í þessum hluta vefapps bakendavinnslu á miðlara.
+Smíða skal vefapp útfrá verkefnalýsingu (Verkefni 1). Metið er í þessum hluta vefapps bakendavinnslu á miðlara.
 
 #### Verkþættir:
 1. [ ] Gagnagrunnur. (**30%**)
