@@ -8,7 +8,7 @@ Smíða skal vefapp útfrá verkefnalýsingu (Verkefni 1). Metið er í þessum 
 
 #### Verkþættir:
 1. [ ] Gagnagrunnur. (**25%**)
-1. [ ] RESTful API, gagnavinnsla (t.d. ORM). (**25%**)
+1. [ ] RESTful API, ORM. (**25%**)
 1. [ ] Beining (e. routing). (**10%**)
 1. [ ] Sérvirkni. (**30%**)
 1. [ ] Uppsetning vefapps og hýsing á miðlara. (**10%**)
