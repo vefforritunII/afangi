@@ -1,6 +1,7 @@
 ## Verkefni 1
 - 10% af heildareinkunn
 - [Hugmyndavinna](https://github.com/vefforritunII/afangi/blob/main/Hugmyndavinna.md)
+- hópverkefni
 
 
 ---
