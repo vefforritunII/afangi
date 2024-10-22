@@ -1,4 +1,4 @@
-## Verkefni 5 (35%)  _drög_
+## Verkefni 5 (35%)  
 - 35% af heildareinkunn
 - [Bakendavefþróun](https://github.com/vefforritunII/afangi/blob/main/Bakendi.md)
 - Verkefni 3, 4 og 5 eru unnin samhliða í teymi
