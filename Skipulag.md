@@ -2,9 +2,9 @@
 
 ### Git & GitHub
 
-- [Git leiðbeiningar á íslensku](https://github.com/gaui/git) 
-- [Using Git source control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol) 
-- ​[Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
+1. [Git leiðbeiningar á íslensku](https://github.com/gaui/git) 
+1. [Using Git source control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol) 
+1. ​[Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 
   
 <!-- 
