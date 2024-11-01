@@ -20,8 +20,8 @@
 
 ### Hópvinnuflæði
 1. [Git vinnuflæði fyrirlestur (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_fyrirlestur.pdf)
-  - [Gitflow: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-  - [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+   - [Gitflow: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+   - [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 1. [Guide: Git & GitHub hópvinnuflæði](https://github.com/GunnarThorunnarson/CodeVoyagers/tree/develop/Guides/Workflow%20Long)
 1. [Hvað er Scrum](https://www.scrum.org/resources/what-is-scrum) og [Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 
