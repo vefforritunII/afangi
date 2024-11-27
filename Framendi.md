@@ -8,7 +8,7 @@
 
 ### Vefhönnun 
 * [Awwards](https://www.awwwards.com/) _vefsíður með áherslu á hönnun_
-* [Material Design](https://material.io/)
+* [Material Design](https://material.io/) _styleguide frá Google_
 * [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [Laws of UX](https://lawsofux.com/)
 * [UX Project Checklist](https://uxchecklist.github.io/)
@@ -17,7 +17,7 @@
 
 ### CSS 
 * [Top 20 Best CSS Frameworks for Front-End Developers in 2023](https://hackr.io/blog/best-css-frameworks)
-  * [Tailwindcss](https://tailwindcss.com/)
+  * [Tailwindcss](https://tailwindcss.com/) 
   * [Material UI](https://mui.com/material-ui/) _byggt á styleguide frá Google_
 * [How to Organize Your CSS with a Modular Architecture
 (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
