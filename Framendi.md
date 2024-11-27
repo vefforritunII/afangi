@@ -16,12 +16,13 @@
 ---
 
 ### CSS 
-* [How to Organize Your CSS with a Modular Architecture
-(OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
-* [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
 * [Top 20 Best CSS Frameworks for Front-End Developers in 2023](https://hackr.io/blog/best-css-frameworks)
   * [Tailwindcss](https://tailwindcss.com/)
   * [Material UI](https://mui.com/material-ui/) _byggt á styleguide frá Google_
+* [How to Organize Your CSS with a Modular Architecture
+(OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
+* [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+
 
 <!--
    * [Get started with Tailwind CSS](https://tailwindcss.com/docs/installation)
