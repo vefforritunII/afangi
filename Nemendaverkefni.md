@@ -44,46 +44,15 @@
 
 ## Haust 2020
 
-### Tjalda
-- Mikael - Smári - Tristan
-- https://github.com/Tjalda/Utilegan/wiki
-- https://tjalda.github.io/Utilegan/
-- Stafli: Vue.js, Bulma, Firebase
-
-
-### food
-- Anh-Guðrún-Lorraine
-- [https://github.com/3Asians/FoodApp](https://github.com/3Asians/FoodApp/wiki/Sk%C3%BDrsla)
-- https://foodappvef.netlify.app/
-- stafli: Vue.js, Scrape, GoogleMyMaps  
-
-
-### Stæ 
-- Tumi - Oliver
-- https://github.com/Staefae/Vefsidan
-- https://staefae.github.io/Vefsidan/
-- stafli: JavaScript, Materialize, jQuery, MathJax, MathJS, MathQuill
+- [Tjalda](https://github.com/Tjalda/Utilegan/wiki) _Vue.js, Bulma, Firebase_
+- [food][https://github.com/3Asians/FoodApp](https://github.com/3Asians/FoodApp/wiki/Sk%C3%BDrsla) _Vue.js, Scrape, GoogleMyMaps_ 
+- [Stæ](https://github.com/Staefae/Vefsidan) _JavaScript, Materialize, jQuery, MathJax, MathJS, MathQuill_
 
 ---
 
 ## Haust 2019
 
-### [Strendingur - heimasíð](http://tolvubraut.is/VEF4-Haust19-TenderStrendingur/)
-- [Wiki](https://github.com/Robertingi00/Tender-Strendingur/wiki/Sk%C3%BDrsla)
-- Kypler Lloyd, Pétur Steinn Guðmundsson, Róbert Ingi Hálfdanarson
-- Stafli: MERN stendur fyrir MongoDB, Express, React og node. Svo er Apollo graphql server og clinet sér um api request-in.
-
-### Amigo
-- [Amigo Githbub](https://github.com/omegindino/amigo)
-- Reyn, Birkir, Victor
-- Stafli: Angular, Firebase, Node.js
-
-### [AwsomeQuest](https://github.com/AwesomeQuest/VEFTH2VTH05DU-master/wiki/Website-aims,-functions,-and-notes.)
-- Torfi
-- Stafli: Angular
-
-### [DnD](https://github.com/Kristjan-O-Ragnarsson/DnD-Web)
-- Daníel, Kristján, Sigmar
-- React, MySQL, Semantic UI, Linux, Docker, Azure
-
----
+- [Strendingur - heimasíð](http://tolvubraut.is/VEF4-Haust19-TenderStrendingur/) _MERN. Svo er Apollo graphql server og clinet sér um api request-in_
+- [Amigo](https://github.com/omegindino/amigo) _Angular, Firebase_
+- [AwsomeQuest](https://github.com/AwesomeQuest/VEFTH2VTH05DU-master/wiki/Website-aims,-functions,-and-notes.) _Angular_
+- [DnD](https://github.com/Kristjan-O-Ragnarsson/DnD-Web) _React, MySQL, Semantic UI, Linux, Docker, Azure_
