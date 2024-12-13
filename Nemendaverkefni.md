@@ -4,6 +4,9 @@
 
 - [Club scout](https://github.com/vefforritunII/H24_ClubFinder) _Next.js, PostgreSQL (Supabase), Custom CSS_
 - [Tilkynntu.is](https://github.com/vefforritunII/H24_tilkynntu.is) _Django, Tailwind CSS, SQLite, HTMX_
+- [Leikvellir]() _Flask með blueprints, Tailwind, Postgres, vanilla JS_
+- [Verkstæði](https://github.com/vefforritunII/H24_Verkstaedi) _Django, Bootstrap, SQLite_
+
 
 ---
 
