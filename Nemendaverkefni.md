@@ -2,6 +2,9 @@
 
 ## Haust 2024
 
+- [Club scout](https://github.com/vefforritunII/H24_ClubFinder) _Next.js, PostgreSQL (Supabase), Custom CSS_
+- [Tilkynntu.is](https://github.com/vefforritunII/H24_tilkynntu.is) _Django, Tailwind CSS, SQLite, HTMX_
+
 ---
 
 ## Vor 2024
@@ -23,60 +26,19 @@
 
 ## Haust 2022
 
-- lets-make-music
-- Fannar, Sæbjörn, Ágúst, Guðjón
-- https://github.com/Vef2-musc
-- Stack: Flask, Firebase
-
-### Stafli
-- Faud, Sveinn, Karl, Elvar
-- https://github.com/vefthroun4
-- Stack: Flask, SQL
-
-### Putti
-- Anton, Katla, Páll, Victor
-- https://github.com/Putti-V-1
-- Stack: React Native
-
-<!--
-D&D, 
-- Hörður
-- [https://github.com/hordur99/DMs_Familiar](https://github.com/hordur99/dms_familiar)
-- Stack: React
--->
+- [lets-make-music](https://github.com/Vef2-musc) _Flask, Firebase_
+- [Stafli](https://github.com/vefthroun4) _Flask, SQL_
+- [Putti](https://github.com/Putti-V-1) _React Native_
 
 ---
 
 ## Vor 2022
 
-### LookCool
-- Hákon, Þórður, Máni
-- https://github.com/Vefthrounn-Verkefni/verkefna-repo#readme
-- Stack: Flask, Semantic Ui, MySql og SqlAlchemy, PythonAywhere
-
-### Heimavinna
-- Jónas, Stefán, Snorri
-- https://github.com/Heimavinna/Heimavinna/blob/main/skyrsla.md
-- Stack: Flask, SQLAlchemy, Python Anywhere.
-
-### Kambria
-- Tristan, Alexander, Daniel Þór
-- https://github.com/Project-Kambria/Kambria#sk%C3%BDrsla
-- React Native, Firebase, NodeJS
-
-### Baenda
-- Kacper, Egill, Elías Andri
-- https://github.com/baenda
-- Stack: MongoDB, Express, React og Node.js
-
-### Leikjasíða
-- Davíð
-- https://github.com/Davygod/Vefforritun-II
-- Flask
-
-### Sveppaleit
-Benja
-https://github.com/VEFTH2VTH05DU
+- [LookCool](https://github.com/Vefthrounn-Verkefni/verkefna-repo#readme) _Flask, Semantic Ui, MySql og SqlAlchemy_
+- [Heimavinna](https://github.com/Heimavinna/Heimavinna/blob/main/skyrsla.md) _Flask, SQLAlchemy_
+- [Kambria](https://github.com/Project-Kambria/Kambria#sk%C3%BDrsla) _React Native, Firebase_
+- [Baenda](https://github.com/baenda) _MongoDB, Express, React_
+<!-- - [Leikjasíða](https://github.com/Davygod/Vefforritun-II) _Flask_ -->
 
 ---
 
