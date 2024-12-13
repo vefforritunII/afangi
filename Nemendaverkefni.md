@@ -45,7 +45,7 @@
 ## Haust 2020
 
 - [Tjalda](https://github.com/Tjalda/Utilegan/wiki) _Vue.js, Bulma, Firebase_
-- [food][https://github.com/3Asians/FoodApp](https://github.com/3Asians/FoodApp/wiki/Sk%C3%BDrsla) _Vue.js, Scrape, GoogleMyMaps_ 
+- [food](https://github.com/3Asians/FoodApp/wiki/Sk%C3%BDrsla) _Vue.js, Scrape, GoogleMyMaps_ 
 - [Stæ](https://github.com/Staefae/Vefsidan) _JavaScript, Materialize, jQuery, MathJax, MathJS, MathQuill_
 
 ---
