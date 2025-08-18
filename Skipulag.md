@@ -1,5 +1,3 @@
-## Vinnuflæði
-
 ### Git & GitHub
 
 1. [Git leiðbeiningar á íslensku](https://github.com/gaui/git) 
