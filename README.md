@@ -9,8 +9,8 @@ Hér eru nokkur [nemendaverkefni](https://github.com/vefforritunII/afangi/blob/m
 
 ### Efnisyfirlit
 - [Verkefnin](https://github.com/vefforritunII/afangi/tree/main/Verkefni)
-- [Hugmyndavinna](https://github.com/vefforritunII/afangi/blob/main/Hugmyndavinna.md)
 - [Vinnuflæði](https://github.com/vefforritunII/afangi/blob/main/Skipulag.md)
+- [Hugmyndavinna](https://github.com/vefforritunII/afangi/blob/main/Hugmyndavinna.md)
 - [Framendavefþróun](https://github.com/vefforritunII/afangi/blob/main/Framendi.md)
 - [Bakendavefþróun](https://github.com/vefforritunII/afangi/blob/main/Bakendi.md)
 
