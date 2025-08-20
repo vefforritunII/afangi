@@ -18,7 +18,7 @@
 
 ### Hópvinnuflæði
 1. [Git vinnuflæði fyrirlestur (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_fyrirlestur.pdf)
-1. [Guide: Git & GitHub hópvinnuflæði](https://github.com/GunnarThorunnarson/CodeVoyagers/tree/develop/Guides/Workflow%20Long)
+1. [Guide: Git & GitHub hópvinnuflæði með Github Projects og issues](https://github.com/GunnarThorunnarson/CodeVoyagers/tree/develop/Guides/Workflow%20Long) 
 1. [Hvað er Scrum](https://www.scrum.org/resources/what-is-scrum) og [Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 
 <!--
