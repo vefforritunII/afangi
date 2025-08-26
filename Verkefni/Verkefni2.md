@@ -5,7 +5,7 @@
 ---
 
 ### Verkefnalýsing 
-Búið til [team og organization](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-organization,-project-and-team) í Github fyrir hópinn ykkar (bjóða líka mér _GunnarThorunnarson_) og búið til readme.md sem inniheldur eftirfarandi:
+Búið til public Github repository (eða [team og organization](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-organization,-project-and-team)) fyrir hópinn ykkar (bjóða líka mér _GunnarThorunnarson_) og búið til readme.md sem inniheldur eftirfarandi:
 
 - [ ] Almenn textalýsing á því hvað appið á að gera, hvað það á að leysa og fyrir hvern. (**20%**)
 - [ ] Tilgreinið alla notendur apps með að nota `user stories` og `user scenarios` (who, what, why), [sýnidæmi](https://github.com/vefforritunII/V24_Bellaser?tab=readme-ov-file#user-stories). (**30%**)
