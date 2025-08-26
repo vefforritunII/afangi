@@ -6,7 +6,7 @@
 
 
 #### Þarfagreining
-1. [double dimond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/) 
+<!-- 1. [double dimond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/) -->
 1. [User stories (myndband)](https://www.youtube.com/watch?v=apOvF9NVguA)  
 1. [User’s Story](https://www.chrbutler.com/how-to-tell-the-users-story) _identifies who the user is, what she needs, and why she needs it._
 
