@@ -1,18 +1,18 @@
-## Hugmyndavinna
+# Hugmyndavinna
 
-#### Hönnunarsprettir 
+### Hönnunarsprettir 
 [Hönnunarsprettir](https://blog.kolibri.is/h%C3%B6nnunarsprettir-sem-virka-13def1c083b8) (e. Design Sprints) eru vinsæl aðferð þar sem hönnunarhugsun (e. Design Thinking) er beitt til að snúa vandamálum yfir í tækifæri og ramma viðfangsefni inn með upplifun og þarfir viðskiptavina í fyrirrúmi. Á meðan á hönnunarspretti stendur, koma mismunandi aðilar með mismunandi færni og þekkingu saman og vinna með hagkvæmni og hraða að leiðarljósi.
 
 Í hönnunarspretti er engin hugmynd slæm hugmynd. Allir fá nokkrar hugmyndir, tíma til að melta og pæla. Til að hámarka árangur hönnunarspretta og hönnunarhugsunar þarf að skapa rými til hugsa út fyrir kassann, gera tilraunir, gera mistök og læra af þeim. Allar hugmyndir ræddar í hóp og ein valin. Þessi aðferðafræði hjálpar fólki að hugsa út fyrir kassann, skapa og gefa frá sér einstakar hugmyndir. 
 
 
-#### Þarfagreining
+### Þarfagreining
 <!-- 1. [double dimond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/) -->
 1. [User stories (myndband)](https://www.youtube.com/watch?v=apOvF9NVguA)  
 1. [User’s Story](https://www.chrbutler.com/how-to-tell-the-users-story) _identifies who the user is, what he needs, and why he needs it._
 
 
-#### Wireframes 
+### Wireframes 
    1. [User Flows vs. Wireframes](https://careerfoundry.com/en/blog/ux-design/user-flows-vs-wireframes/)
    1. [Wireframing for beginners](https://uxmastery.com/wireframing-for-beginners/) 
    1. [Paper wireframing](https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13) og [templates](https://sneakpeekit.com/) til útprentunar.
