@@ -3,7 +3,7 @@
 **tilkynntu.is** er sérhæfð vefsíða fyrir skráningu á staðbundnum vandamálum og áhyggjum í þínu samfélagi. Hvort sem um er að ræða lítil vandamál, eins og brotin götuljós, eða alvarlegri áhyggjur sem hafa áhrif á öryggi í hverfinu, veitir **tilkynntu.is** íbúum möguleika á að koma áhyggjum sínum á framfæri og stuðla að jákvæðum breytingum. Vefsvæðið okkar er notendavænt og gerir notendum kleift að skrá tilkynningar, bæta við myndum og fylgjast með stöðu hvers máls á auðveldan hátt. Með því að vinna saman getum við byggt upp sterkara og árangursríkara samfélag, þar sem hverju vandamáli er veitt athygli og leitað lausna. Við bjóðum þig velkominn til að taka þátt í því að gera þitt hverfi að betri stað til að búa.
 
 ### User Stories:
-_dæmi notanda, geta verið fleiri í kerfinu_
+_dæmi um notanda, geta verið fleiri í kerfinu_
 
 _As a **Resident**, I want to be able to report local issues quickly so they can be resolved by the city.
 This allows residents to contribute to the upkeep and safety of their community, promoting a sense of involvement._
