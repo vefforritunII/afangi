@@ -1,11 +1,12 @@
 ## Verkefni 2
 - 10% af heildareinkunn
+- hópverkefni
 - [Hugmyndavinna](https://github.com/vefforritunII/afangi/blob/main/Hugmyndavinna.md)
 
 ---
 
 ### Verkefnalýsing 
-Búið til public Github repository (eða [team og organization](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-organization,-project-and-team)) fyrir hópinn ykkar og búið til readme.md sem inniheldur eftirfarandi:
+Búið til public Github repository fyrir hópinn ykkar (allir með admin réttindi) og búið til readme.md sem inniheldur eftirfarandi:
 
 - [ ] Almenn textalýsing á því hvað appið á að gera, hvað það á að leysa og fyrir hvern. Tilgreinið **alla** notendur apps með að nota `user stories` og `user scenarios` (who, what, why), [sýnidæmi](https://github.com/vefforritunII/afangi/blob/main/Demo/userstories.md). (**50%**)
 - [ ] Gerið [Wireflows](https://careerfoundry.com/en/blog/ux-design/user-flows-vs-wireframes/) (Wireframes + User flows) á pappír fyrir appið. Takið ljósmyndir af skissum og setjið í readme.md. (**50%**)
