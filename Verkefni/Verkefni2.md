@@ -8,8 +8,8 @@
 ### Verkefnalýsing 
 Búið til public Github repository fyrir hópinn ykkar (allir með admin réttindi) og búið til readme.md sem inniheldur eftirfarandi:
 
-- [ ] Almenn textalýsing á því hvað appið á að gera, hvað það á að leysa og fyrir hvern. Tilgreinið **alla** notendur apps með að nota `user stories` og `user scenarios` (who, what, why), [sýnidæmi](https://github.com/vefforritunII/afangi/blob/main/Demo/userstories.md). (**50%**)
-- [ ] Gerið [Wireflows](https://careerfoundry.com/en/blog/ux-design/user-flows-vs-wireframes/) (Wireframes + User flows) á pappír fyrir appið. Takið ljósmyndir af skissum og setjið í readme.md. (**50%**)
+- [ ] Almenn textalýsing á því hvað appið á að gera, hvað það á að leysa og fyrir hvern. Tilgreinið einnig **alla** notendur apps með að nota `user stories` (who, what, why), [sýnidæmi](https://github.com/vefforritunII/afangi/blob/main/Demo/userstories.md). (**50%**)
+- [ ] Gerið [Wireflows](https://careerfoundry.com/en/blog/ux-design/user-flows-vs-wireframes/) (Wireframes + User flows) á pappír fyrir appið. Takið ljósmyndir af skissum og setjið í readme.md. Setja ykkur í spor notanda (`user scenarios`). (**50%**)
 
 > Valkvæmt: Notið [Figma](https://www.figma.com/wireframe-tool/) fyrir wireframe / mockup fyrir forsíðuna og undirsíður
 
