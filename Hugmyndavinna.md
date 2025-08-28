@@ -12,7 +12,7 @@
 1. [User’s Story](https://www.chrbutler.com/how-to-tell-the-users-story) _identifies who the user is, what he needs, and why he needs it._
 
 
-### Wireframes og mockups
+### Wireframes 
 1. [User Flows vs. Wireframes](https://careerfoundry.com/en/blog/ux-design/user-flows-vs-wireframes/)
 1. [Wireframing for beginners](https://uxmastery.com/wireframing-for-beginners/) 
 1. [Paper wireframing](https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13) og [templates](https://sneakpeekit.com/) til útprentunar.
