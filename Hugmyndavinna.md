@@ -1,4 +1,4 @@
-# Hugmyndavinna
+## Hugmyndavinna
 
 ### 1. Hönnunarsprettir 
 [Hönnunarsprettir](https://blog.kolibri.is/h%C3%B6nnunarsprettir-sem-virka-13def1c083b8) (e. Design Sprints) eru vinsæl aðferð þar sem hönnunarhugsun (e. Design Thinking) er beitt til að snúa vandamálum yfir í tækifæri og ramma viðfangsefni inn með upplifun og þarfir viðskiptavina í fyrirrúmi. Á meðan á hönnunarspretti stendur, koma mismunandi aðilar með mismunandi færni og þekkingu saman og vinna með hagkvæmni og hraða að leiðarljósi.
