@@ -1,7 +1,7 @@
 ## Verkefni 1
 
 - 15% af heildareinkunn
-- [Git & GitHub](https://github.com/vefforritunII/afangi/blob/main/Skipulag.md) 
+- [Vinnuflæði](https://github.com/vefforritunII/afangi/blob/main/Vinnuflaedi.md) 
   
 ---
 
