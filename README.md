@@ -8,7 +8,7 @@ Hér eru nokkur [nemendaverkefni](https://github.com/vefforritunII/afangi/blob/m
 ---
 
 ### Efnisyfirlit
-1. [Git Vinnuflæði og ](https://github.com/vefforritunII/afangi/blob/main/Skipulag.md)
+1. [Vinnuflæði](https://github.com/vefforritunII/afangi/blob/main/Skipulag.md)
 1. [Hugmyndavinna](https://github.com/vefforritunII/afangi/blob/main/Hugmyndavinna.md)
 1. [Vefþróun](https://github.com/vefforritunII/afangi/blob/main/Vefthroun.md)
 
