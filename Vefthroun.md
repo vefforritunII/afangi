@@ -6,6 +6,8 @@ Hér eru dæmi um stafla í vefþróun:
 - [Choosing the best tech stack for web application development: a 2023 guide](https://techwings.com/blog/choosing-the-best-tech-stack-for-web-app-development)
 - [How to choose a web stack](https://positiwise.com/blog/how-to-choose-a-web-technology-stack-a-complete-guide)
 
+> [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d). 
+
 ---
 
 ### Framendavefþróun 
@@ -70,9 +72,6 @@ Hér eru dæmi um stafla í vefþróun:
 -->
 
 ---
-
-### Bakendavefþróun
-Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d). 
 
 ### REST API
 [API](https://www.youtube.com/watch?v=s7wmiS2mSXY) (application programming interface) stendur fyrir forritunarviðmót. API er notað til að sækja gögn á milli kerfa, [nánar um API](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/). Hér [Postman VSCode viðbót](JSON/VSC_Postman/README.md) til að prófa að gera API fyrirspurnir. [REST](https://www.codecademy.com/article/what-is-rest) er algeng aðferð til að búa til sinn eigin API (RESTFUL API) þegar það á við.
