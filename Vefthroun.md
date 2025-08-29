@@ -1,5 +1,5 @@
 # Vefþróun
-Góð grein um vefþróun, [Web Applications 101](https://www.robinwieruch.de/web-applications/)
+Góð grein um vefþróun, [Web Applications 101](https://www.robinwieruch.de/web-applications/) _skyldulesning_
 
 Hér eru dæmi um stafla í vefþróun:
 - [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i).
