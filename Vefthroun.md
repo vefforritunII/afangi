@@ -67,6 +67,8 @@ Hér eru dæmi um stafla í vefþróun:
 - [Web Components, (Templates)](https://medium.com/javascript-in-plain-english/web-components-crash-course-b0a2feb11be1)
 -->
 
+---
+
 ## Bakendavefþróun
 Er þar sem þú getur átt samskipti við gagnagrunn, séð um e. business logic og sent nauðsynleg gögn til framenda, [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d). 
 
