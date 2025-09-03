@@ -1,63 +1,35 @@
 # Vefþróun
-Góð grein um vefþróun, [Web Applications 101](https://www.robinwieruch.de/web-applications/) 
+Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/web-applications/) 
 
 Hér eru dæmi um stafla:
 - [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i).
 - [Choosing the best tech stack for web application development: a 2023 guide](https://techwings.com/blog/choosing-the-best-tech-stack-for-web-app-development)
 - [How to choose a web stack](https://positiwise.com/blog/how-to-choose-a-web-technology-stack-a-complete-guide)
-
-> [Backend Development](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d). 
-
----
-
-### Framendavefþróun 
-Þar sem við smíðum notendaviðmót fyrir vefinn með JavaScript, CSS og HTML. [Handbók](https://frontendmasters.com/books/front-end-handbook/2019/) um framendavefþróun og [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6).
-
-- [HTMX vs REACT](https://www.builder.io/blog/htmx-vs-react)
 - [JAMstack vs. SPA for Web Development](https://scand.com/company/blog/jamstack-vs-spa-for-web-development/)
+- [The 2023 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d)
 
----
-
-### Vefhönnun 
-* [Material Design](https://material.io/) _styleguide frá Google_
-* [Laws of UX](https://lawsofux.com/)
-* [UX Project Checklist](https://uxchecklist.github.io/)
-
-<!-- 
-* [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
--->
- 
 ---
 
 ### CSS 
-* [Top 20 Best CSS Frameworks for Front-End Developers in 2025](https://hackr.io/blog/best-css-frameworks)
+- [Material Design](https://material.io/) _styleguide frá Google_
+- [Top 20 Best CSS Frameworks for Front-End Developers in 2025](https://hackr.io/blog/best-css-frameworks)
    * [Tailwind](https://tailwindcss.com/) 
    * [Material UI](https://mui.com/material-ui/) _byggt á styleguide frá Google_
-* [How to Organize Your CSS with a Modular Architecture
-(OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
-* [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+- Að gera eigið CSS safn:
+   * [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
+   * [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
 
+### JavaScript
+- [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6).
+- [HTMX vs REACT](https://www.builder.io/blog/htmx-vs-react)
+- [Learn React](https://react.dev/learn) og _ítarefni [Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)_
+- [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html), [Typescript og React](https://react.dev/learn/typescript) 
 
 <!--
    * [Get started with Tailwind CSS](https://tailwindcss.com/docs/installation)
    * [Utility-First Fundamentals](https://tailwindcss.com/docs/utility-first)
    * [Tailwind CSS tutorial](https://tsh.io/blog/tailwind-css-tutorial/)
--->
-
----
-
-### JavaScript (React)
-- [Learn React](https://react.dev/learn) og _ítarefni [Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)_
-- [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html), [Typescript og React](https://react.dev/learn/typescript) 
-
-<!--
----
-
-### Greinar 
-- [Ellert Smári](https://ellertsmarik.medium.com/)
-
-   -->
-<!--
+    
     - [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
     - [React: Vefskólinn (Tækniskólinn)](https://io.vefskoli.is/guides) _sjá module 4_  
     - [React: Deep Dive Into Modern Web Development (Helsinki University)](https://fullstackopen.com/en/about)
