@@ -14,9 +14,11 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
 - [Top 20 Best CSS Frameworks for Front-End Developers in 2025](https://hackr.io/blog/best-css-frameworks)
    * [Tailwind](https://tailwindcss.com/)
    * [Material UI](https://mui.com/material-ui/) _React component library that implements Google's Material Design._
-- Að gera eigið CSS safn:
-   * [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
-   * [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+
+<!--
+- Að gera eigið CSS safn: [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
+* [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+-->
 
 ---
 
