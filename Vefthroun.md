@@ -19,6 +19,8 @@ Hér eru dæmi um stafla:
    * [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
    * [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
 
+---
+
 ### JavaScript
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6).
 - [HTMX vs REACT](https://www.builder.io/blog/htmx-vs-react)
