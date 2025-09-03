@@ -1,9 +1,9 @@
 # Vefþróun
 Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/web-applications/) 
 
-Hér eru dæmi um stafla:
-- [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i).
+Staflar:
 - [Choosing the best tech stack for web application development: a 2023 guide](https://techwings.com/blog/choosing-the-best-tech-stack-for-web-app-development)
+- [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i).
 - [How to choose a web stack](https://positiwise.com/blog/how-to-choose-a-web-technology-stack-a-complete-guide)
 - [JAMstack vs. SPA for Web Development](https://scand.com/company/blog/jamstack-vs-spa-for-web-development/)
 
