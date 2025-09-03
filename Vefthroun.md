@@ -6,7 +6,8 @@ Hér eru dæmi um stafla:
 - [Choosing the best tech stack for web application development: a 2023 guide](https://techwings.com/blog/choosing-the-best-tech-stack-for-web-app-development)
 - [How to choose a web stack](https://positiwise.com/blog/how-to-choose-a-web-technology-stack-a-complete-guide)
 - [JAMstack vs. SPA for Web Development](https://scand.com/company/blog/jamstack-vs-spa-for-web-development/)
-- [The 2023 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d)
+
+> [The 2023 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d)
 
 ---
 
