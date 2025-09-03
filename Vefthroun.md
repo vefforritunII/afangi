@@ -27,6 +27,8 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
 - [Learn React](https://react.dev/learn) og  _[Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2025/tree/main/namsefni/17.react#readme)_
 - [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html), [Typescript og React](https://react.dev/learn/typescript) 
 
+> - [JavaScript Frameworks - Heading into 2025](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2025-hkb)
+
 <!--
    * [Get started with Tailwind CSS](https://tailwindcss.com/docs/installation)
    * [Utility-First Fundamentals](https://tailwindcss.com/docs/utility-first)
