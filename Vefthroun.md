@@ -11,7 +11,6 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
 
 ### CSS og hönnun
 - [Top 20 Best CSS Frameworks for Front-End Developers in 2025](https://hackr.io/blog/best-css-frameworks)
-   * [Tailwind](https://tailwindcss.com/)
 - [Material Design](https://material.io/) _styleguide frá Google_
 - [Material UI](https://mui.com/material-ui/) _React component library that implements Google's Material Design._
 
