@@ -25,7 +25,7 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
 ### JavaScript
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6).
 - [HTMX vs REACT](https://www.builder.io/blog/htmx-vs-react)
-- [Learn React](https://react.dev/learn) og _ítarefni [Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2023/tree/main/namsefni/17.react#readme)_
+- [Learn React](https://react.dev/learn) og  _[Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2025/tree/main/namsefni/17.react#readme)_
 - [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html), [Typescript og React](https://react.dev/learn/typescript) 
 
 <!--
