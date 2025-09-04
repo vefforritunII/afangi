@@ -37,6 +37,5 @@ Einkunn fyrir hvern verkþátt:
 - 0 - lausn vantar eða óunnin.
 
 
-Halda þarf stutta kynningu á afurð í kennslustund í síðasta tímanum.
 
 
