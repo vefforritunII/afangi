@@ -11,7 +11,7 @@ Repository þarf að innihalda allan kóða, skrár og önnur gögn (gagnagrunnu
 
 1.	Höfundar, áfangaheiti, Tölvubraut, Tækniskólinn.
 1.  Tengill á hýstan vef.
-1.	Verkefnalýsing, userstories, wireflos, stafli, gagnagrunnshönnun. 
+1.	Verkefnalýsing, userstories, wireflow, stafli, gagnagrunnshönnun. 
 1.	Skjámyndir af vefappi.
 1.	Stutt [skjámyndsupptaka](https://screenpal.com/) (mp4) af notendavirkni.
 1.	Samantekt. Hver væru næstu skref, ókláruð virkni.
