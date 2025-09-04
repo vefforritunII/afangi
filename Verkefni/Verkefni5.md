@@ -1,7 +1,7 @@
 ## Verkefni 5 (5%)
 - 5% af heildareinkunn
 
-### Verkefnalýsing 
+#### Kynning
 Halda þarf stutta kynningu á afurð í kennslustund í síðasta tímanum (10.10.25).
 
 #### Skýrsla
