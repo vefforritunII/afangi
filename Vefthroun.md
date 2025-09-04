@@ -9,7 +9,9 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
 
 ---
 
-### CSS og vefhönnun
+## Framendavefþróun (Viðmót, UI/UX)
+
+#### CSS og vefhönnun
 - [Top 20 Best CSS Frameworks for Front-End Developers in 2025](https://hackr.io/blog/best-css-frameworks)
 - [Material Design](https://material.io/) _styleguide frá Google_
 - [Material UI](https://mui.com/material-ui/) _React component library that implements Google's Material Design._
@@ -19,9 +21,7 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
 * [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
 -->
 
----
-
-### Framendavefþróun (JavaScript)
+#### JavaScript (UI/UX)
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6).
 - [HTMX vs REACT](https://www.builder.io/blog/htmx-vs-react)
 - [Learn React](https://react.dev/learn) og  _[Vefforritun II (Háskóli Íslands)](https://github.com/vefforritun/vef2-2025/tree/main/namsefni/17.react#readme)_
