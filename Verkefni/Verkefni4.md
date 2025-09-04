@@ -11,7 +11,14 @@ Smíða skal vefapp útfrá verkefnalýsingu (Verkefni 1). Metið er í þessum 
 1. [ ] Beining (e. routing). (**10%**)
 1. [ ] Sérvirkni. (**30%**)
 1. [ ] Uppsetning vefapps, kóðaskipulag og hýsing á miðlara. (**10%**)
+
+<br>
    
+Unnið verður eftir Agile [Scrum](https://www.scrum.org/learning-series/what-is-scrum/) aðferðafræði þar sem nemendur vinna í hópum og skipta verkum á milli sín. Búið til repository (eða [team og organization](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-organization,-project-and-team)).
+- Fyrsti tími vikunnar útbúa nemendur `TODO` í `Github PROJECTS` fyrir vikuna.
+- Í síðasti tími vikunnar er stöðufundur með hópunm og kennara þar sem farið er yfir `In Process / Done` í `Github Projects`. 
+- Hver nemandi heldur auk þess dagbók fyrir sig til að halda utan um lærdóm og prófanir.
+  
 ---
 
 ### Námsmat 
