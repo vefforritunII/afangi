@@ -2,6 +2,7 @@
 Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/web-applications/) 
 
 ### Staflar
+- [How To Choose The Right Web Framework In 2025 (A Step-by-Step Guide)](https://www.netclues.com/blog/how-to-choose-web-framework-2025)
 - [Choosing the best tech stack for web application development: a 2023 guide](https://techwings.com/blog/choosing-the-best-tech-stack-for-web-app-development)
 - [10 Best Web Development Stacks](https://dev.to/snevy1/10-best-web-development-stacks-409i).
 
