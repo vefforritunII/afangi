@@ -14,3 +14,5 @@ Repository þarf að innihalda allan kóða, skrár og önnur gögn (gagnagrunnu
 1.	Stutt [skjámyndsupptaka](https://screenpal.com/) (mp4) af notendavirkni.
 1.	Samantekt. Hver væru næstu skref, ókláruð virkni.
 
+### Námsmat
+Gefið er fullt fyrir fullnægjandi kynning og skýrslu, hálft ef ábótavant.
