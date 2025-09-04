@@ -4,7 +4,7 @@
 - Verkefni 3 og 4 eru unnin samhliða 
 
 ### Verkefnalýsing 
-Smíða skal vefapp útfrá verkefnalýsingu (Verkefni 1). Metið er í þessum hluta vefapps; viðmót (UI), notendaupplifun (UX) og viðmótsforritun.
+Smíða skal vefapp útfrá verkefnalýsingu (Verkefni 1). Metið er í þessum hluta vefapps; viðmót (UI), notendaupplifun (UX) og viðmótsforritun. Áhersla er lögð á samvinnu og sjálfstæðum vinnubrögðum.
 
 #### Verkþættir:
 
