@@ -3,7 +3,7 @@
 - Verkefni 3 og 4 eru unnin samhliða
 
 ### Verkefnalýsing
-Smíða skal vefapp útfrá verkefnalýsingu (Verkefni 1). Metið er í þessum hluta vefapps bakendavinnslu á miðlara.
+Smíða skal vefapp útfrá verkefnalýsingu (Verkefni 1). Metið er í þessum hluta vefapps bakendavinnslu á miðlara. Áhersla er lögð á samvinnu og sjálfstæðum vinnubrögðum.
 
 #### Verkþættir:
 1. [ ] Gagnagrunnshönnun og uppsetning. (**20%**)
