@@ -4,7 +4,8 @@
 1. [Using Git source control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol) 
 1. ​[Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 
-  
+> [Github learn](https://learn.github.com/)
+
 <!-- 
 - [Git Handbók á íslensku (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_Handbok_islensk.pdf)
 - [Github skills](https://skills.github.com/)
