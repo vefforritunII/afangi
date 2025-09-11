@@ -6,6 +6,12 @@
 
 > [Github learn](https://learn.github.com/)
 
+<!--
+#### Í terminal
+git config --global user.name "YOUR_NAME"
+git config --global user.email "YOUR_EMAIL"
+-->
+
 <!-- 
 - [Git Handbók á íslensku (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_Handbok_islensk.pdf)
 - [Github skills](https://skills.github.com/)
