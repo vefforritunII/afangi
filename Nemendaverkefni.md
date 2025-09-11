@@ -1,5 +1,16 @@
 # Nemendaverkefni
 
+<!--
+## Haust 2025
+- []()
+- []()
+- []()
+- []()
+
+---
+
+-->
+
 ## Haust 2024
 
 - [Club scout](https://github.com/vefforritunII/H24_ClubFinder) _Next.js, PostgreSQL (Supabase), Custom CSS_
