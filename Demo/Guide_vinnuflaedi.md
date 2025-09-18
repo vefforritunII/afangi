@@ -7,6 +7,9 @@ The guide is divided into four main phases:
 3. **Developing an issue (In Progress)**
 4. **Completing work on GitHub (Done)**
 
+
+![image](https://github.com/vefforritunII/afangi/blob/main/Myndir/vinnuflaedi.png)
+
 ---
 
 ## 1️⃣ Initial Setup (Done Once)
