@@ -14,7 +14,7 @@ Til að geta unnið með mikinn kóða og í hópvinnu þá er nauðsynlegt að 
 1. Búðu til [GitHub](https://github.com/) aðgang, bættu við skólanetfanginu þínu.
 1. Notaðu [GitHub í VS Code](https://code.visualstudio.com/docs/sourcecontrol/github) ma. GitHub Pull Requests og Issues.
 1. Búðu til [Github Project](https://github.com/features/issues). Veldu Team planning (Todo, In Progress, Done).
-1. Vinna skal verkefni 3 og 4 í áfanganum útfrá eftirfarandi [vinnuflæði](https://github.com/GunnarThorunnarson/CodeVoyagers/tree/develop/Guides/Workflow%20Long#git-step-by-step-instructions).
+1. Vinna skal verkefni 3 og 4 í áfanganum útfrá eftirfarandi [Git og Github vinnuflæði](https://github.com/vefforritunII/afangi/blob/main/Demo/Guide_vinnuflaedi.md).
 
 > _(Valkvæmt)_ Náðu í [GitHub Student Developer Pack](https://education.github.com/pack) til að fá m.a. GitHub Pro, Copilot og fleira frítt.
 
