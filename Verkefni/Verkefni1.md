@@ -19,6 +19,8 @@ Til að geta unnið með mikinn kóða og í hópvinnu þá er nauðsynlegt að 
 #### Verkefnið
 Vinna skal verkefni 3 og 4 í áfanganum útfrá eftirfarandi [Git og Github vinnuflæði](https://github.com/vefforritunII/afangi/blob/main/Demo/Guide_vinnuflaedi.md).
 
+<br>
+
 > _(Valkvæmt)_ Náðu í [GitHub Student Developer Pack](https://education.github.com/pack) til að fá m.a. GitHub Pro, Copilot og fleira frítt.
 
 ---
