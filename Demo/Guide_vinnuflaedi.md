@@ -1,12 +1,3 @@
-# Git & GitHub Project Step-by-Step Guide
-
-The guide is divided into four main phases:
-
-1. **Initial setup (done once per project)**
-2. **Scrum sprint planning (TO DO)**
-3. **Developing an issue (In Progress)**
-4. **Completing work on GitHub (Done)**
-
 
 ![image](https://github.com/vefforritunII/afangi/blob/main/Myndir/vinnuflaedi.png)
 
