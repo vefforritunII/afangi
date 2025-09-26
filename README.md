@@ -13,3 +13,4 @@ Hér eru nokkur [nemendaverkefni](https://github.com/vefforritunII/afangi/blob/m
 1. [Vefþróun](https://github.com/vefforritunII/afangi/blob/main/Vefthroun.md)
 
 
+>  [Using GitHub Copilot to work on an issue](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/assign-copilot-to-an-issue)
