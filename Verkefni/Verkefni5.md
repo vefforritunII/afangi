@@ -15,5 +15,8 @@ Repository þarf að innihalda allan kóða, skrár og önnur gögn (gagnagrunnu
 1.	Stutt [skjámyndsupptaka](https://screenpal.com/) (mp4) af notendavirkni.
 1.	Samantekt. Hver væru næstu skref, ókláruð virkni.
 
+
+Vinsamlegast gerið einnig eftirfarandi (þ.e. ef þið samþykkið birtingu): [Samþykki fyrir birtingu verkefnis á vef](https://github.com/vefforritunII/afangi/blob/main/Verkefni/samthykki_birting_verkefnis.md)
+
 ### Námsmat
 Gefið er fullt fyrir fullnægjandi kynning og skýrslu, hálft ef ábótavant.
