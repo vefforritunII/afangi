@@ -1,15 +1,17 @@
 # Nemendaverkefni
 
-<!--
+
 ## Haust 2025
-- []()
-- []()
-- []()
-- []()
+
+- [Abyrgi]() _Next.js_
+- [Flamed]() _Next.js_
+- [Innihald]() _Vue_
+- [Eniac]() _Flask, _
+<!-- - [Hreidar]() _Next.js_ -->
 
 ---
 
--->
+
 
 ## Haust 2024
 
