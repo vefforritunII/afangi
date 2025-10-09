@@ -3,7 +3,7 @@
 
 ## Haust 2025
 
-- [Abyrgi]() _Next.js, PostgreSQL (Supabase), Tailwind, TypeScript_
+- [Abyrgi]() _Next.js, PostgreSQL (Supabase), Tailwind, Leaflet, TypeScript_
 - [Flamed]() _Next.js_
 - [Innihald]() _Vue_
 - [Eniac]() _Flask_
