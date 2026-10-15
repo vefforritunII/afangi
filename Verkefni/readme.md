@@ -1,1 +1,1 @@
-### Verkefni Haust 2025
+### Verkefni Haust 2026
