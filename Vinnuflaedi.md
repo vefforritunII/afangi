@@ -3,7 +3,7 @@
 1. [Git leiðbeiningar á íslensku](https://github.com/gaui/git) 
 1. [Using Git source control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol) 
 1. ​[Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
-1. [Git vinnuflæði fyrirlestur (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_fyrirlestur.pdf)
+1. [Git vinnuflæði fyrirlestur (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_fyrirlestur.pdf) og [myndband](https://www.youtube.com/watch?v=GQQqf-C2ha4)
 
 > [Github learn](https://learn.github.com/)
 
