@@ -6,8 +6,10 @@
 1. [Git vinnuflæði fyrirlestur (pdf)](https://github.com/GunnarThorunnarson/VEFTHROUN/blob/master/gogn/Git_fyrirlestur.pdf) og [myndband](https://www.youtube.com/watch?v=GQQqf-C2ha4)
 
 > [Github learn](https://learn.github.com/)
-> [Using GitHub Copilot to work on an issue](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/assign-copilot-to-an-issue)
 
+<!--
+> [Using GitHub Copilot to work on an issue](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/assign-copilot-to-an-issue)
+-->
 <!--
 #### Í terminal
 git config --global user.name "YOUR_NAME"
