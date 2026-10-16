@@ -9,17 +9,17 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
 
 ---
 
+<!--
+
 ## Framendavefþróun (Viðmót, UI/UX)
 
 #### CSS og vefhönnun
 - [Top 20 Best CSS Frameworks for Front-End Developers in 2025](https://hackr.io/blog/best-css-frameworks)
 - [Material Design](https://material.io/) _styleguide frá Google_
 - [Material UI](https://mui.com/material-ui/) _React component library that implements Google's Material Design._
-
-<!--
 - Að gera eigið CSS safn: [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
-* [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
--->
+- [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+
 
 #### JavaScript 
 - [The Most Popular JavaScript Frameworks in 2023](https://theme-selection.medium.com/the-most-popular-javascript-frameworks-in-2021-a2fe62174df6).
@@ -28,6 +28,17 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
 - [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html), [Typescript og React](https://react.dev/learn/typescript) 
 
 > [JavaScript Frameworks - Heading into 2025](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2025-hkb)
+
+
+### REST API
+[API](https://www.youtube.com/watch?v=s7wmiS2mSXY) (application programming interface) stendur fyrir forritunarviðmót. API er notað til að sækja gögn á milli kerfa, [nánar um API](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/). Hér [Postman VSCode viðbót](JSON/VSC_Postman/README.md) til að prófa að gera API fyrirspurnir. [REST](https://www.codecademy.com/article/what-is-rest) er algeng aðferð til að búa til sinn eigin API (RESTFUL API) þegar það á við.
+- [REST API using Flask in 7 minutes](https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239) 
+- [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
+- [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
+
+> [xmltodict 0.13.0](https://pypi.org/project/xmltodict/) _Makes working with XML feel like you are working with JSON_
+
+-->
 
 <!--
    * [Get started with Tailwind CSS](https://tailwindcss.com/docs/installation)
@@ -39,6 +50,7 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
     - [React: Deep Dive Into Modern Web Development (Helsinki University)](https://fullstackopen.com/en/about)
 -->
 
+
 <!--
 ### Routing í JavaScript (vanilla)
 - [How I Implemented my own SPA Routing System in Vanilla JS](https://medium.com/@bryanmanuele/how-i-implemented-my-own-spa-routing-system-in-vanilla-js-49942e3c4573)
@@ -47,19 +59,6 @@ Góð grein um vefþróun: [Web Applications 101](https://www.robinwieruch.de/we
 - [Web Components, (Templates)](https://medium.com/javascript-in-plain-english/web-components-crash-course-b0a2feb11be1)
 -->
 
----
-
-### REST API
-[API](https://www.youtube.com/watch?v=s7wmiS2mSXY) (application programming interface) stendur fyrir forritunarviðmót. API er notað til að sækja gögn á milli kerfa, [nánar um API](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/). Hér [Postman VSCode viðbót](JSON/VSC_Postman/README.md) til að prófa að gera API fyrirspurnir. [REST](https://www.codecademy.com/article/what-is-rest) er algeng aðferð til að búa til sinn eigin API (RESTFUL API) þegar það á við.
-- [REST API using Flask in 7 minutes](https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239) 
-- [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
-- [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
-
-<!--
-> [xmltodict 0.13.0](https://pypi.org/project/xmltodict/) _Makes working with XML feel like you are working with JSON_
--->
-
----
 
 <!--
 ## Flask
