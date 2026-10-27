@@ -22,7 +22,7 @@
 
 ---
 
-### 4. Mockups & Prototype 
+### 4. Prototype 
 1. [Figma](https://www.figma.com/), [Figma interface handbook](https://designcode.io/figma-handbook-figma-interface), [Figma 101](https://designlab.com/figma-101-course/introduction-to-figma/) _(frítt)_
 
 <!--
