@@ -14,7 +14,7 @@
 
 ---
 
-### 3. Wireflow, wireframes, userflow  
+### 3. Wireframes, userflow, wireflow    
 1. [Wireframing for beginners](https://uxmastery.com/wireframing-for-beginners/) 
    -  [Paper wireframing](https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13) og [templates](https://sneakpeekit.com/) til útprentunar.
 1. [User Flows vs. Wireframes](https://careerfoundry.com/en/blog/ux-design/user-flows-vs-wireframes/)
