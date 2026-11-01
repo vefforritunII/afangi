@@ -4,6 +4,8 @@
 ### Staflar
 - [How To Choose The Right Web Framework In 2025 (A Step-by-Step Guide)](https://www.netclues.com/blog/how-to-choose-web-framework-2025)
 - [Choosing the best tech stack for web application development: a 2023 guide](https://techwings.com/blog/choosing-the-best-tech-stack-for-web-app-development)
+- [CSS frameworks með AI](https://ellertsmari.github.io/CSSFrameworksWithAI/#/1)
+- [JS frameworks með AI](https://ellertsmari.github.io/JSFrameworksWithAI/#/1)
 
 > [The 2023 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327#eb3d)
 
