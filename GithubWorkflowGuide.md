@@ -6,7 +6,7 @@
 **Skref 1: Búa til GitHub repository og bæta við samstarfsaðilum**
 
 1. Skráðu þig inn á GitHub og búðu til nýtt repository.
-2. Bættu hópmeðlimum og kennara (read access) við repository-ið.
+2. Bættu hópmeðlimum  (admin access) við repository-ið.
 
 **Skref 2: Búa til GitHub Project**
 
