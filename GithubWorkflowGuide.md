@@ -1,4 +1,3 @@
-# GitHub hópvinnuflæði
 
 ![GitHubWorkflowGuide](https://github.com/vefforritunII/afangi/blob/main/Myndir/GitHubvinnuflaedi.jpg)
 
