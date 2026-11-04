@@ -43,7 +43,7 @@
 
 * Þegar vinna hefst, færðu Issue-kortið yfir í **In Progress** dálkinn á Project borðinu.
 
-**Skref 8: Búa til nýtt branch út frá `main**`
+**Skref 8: Búa til nýtt branch út frá `main`**
 
 * Búðu til nýtt branch sem heitir `issue#n` (þar sem `n` er númerið á Issue-inu).
 Dæmi: `git checkout -b issue#1`
