@@ -1,5 +1,6 @@
+# GitHub hópvinnuflæði
 
-1[GitHubWorkflowGuide]()
+![GitHubWorkflowGuide](https://github.com/vefforritunII/afangi/blob/main/Myndir/GitHubvinnuflaedi.jpg)
 
 ## 1️⃣ Uppsetning (gert einu sinni)
 
