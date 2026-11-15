@@ -1,5 +1,5 @@
 
-![vefþróun stafli](https://github.com/vefforritunII/afangi/blob/main/Myndir/webdev.jpeg)
+# Vefþróun
 
 [Web Applications 101](https://www.robinwieruch.de/web-applications/) 
 
