@@ -10,5 +10,5 @@ Með undirritun staðfesti ég að:
 ---
 
 ### Leiðbeiningar
-Vinsamlegast afritaðu ofangreindan texta og settu í athugsemdir í **Innu** þegar þú skilar verkefninu þ.e. ef þú samþykkir birtingu. <br>
-Allir í hópnum þurfa að vera samþykk.
+Vinsamlegast afritaðu ofangreindan texta og settu í athugsemdir í **Canvas** þegar þú skilar verkefninu þ.e. ef þú samþykkir birtingu. <br>
+**Ath.** Allir í hópnum þurfa að vera samþykkir.
